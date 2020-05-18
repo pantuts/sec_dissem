@@ -1,0 +1,68 @@
+9999999996-19-002736EFFECT              Test Technologies Ltd.                                                                                        2019120420191205001517001518001518   0                                                                 <SUBMISSION>
+<ACCESSION-NUMBER>9999999995-19-002736
+<TYPE>EFFECT
+<PUBLIC-DOCUMENT-COUNT>1
+<FILING-DATE>2019
+<DATE-OF-FILING-DATE-CHANGE>2019
+<EFFECTIVENESS-DATE>2019
+<FILER>
+<COMPANY-DATA>
+<CONFORMED-NAME>Test Technologies Ltd.
+<CIK>0001757399
+<ASSIGNED-SIC>7373
+<IRS-NUMBER>000000000
+</COMPANY-DATA>
+<FILING-VALUES>
+<FORM-TYPE>EFFECT
+<ACT>33
+<FILE-NUMBER>000-00000
+<FILM-NUMBER>00000
+</FILING-VALUES>
+<BUSINESS-ADDRESS>
+<STREET1>5 Test ROAD
+<STREET2>Test TOWER
+<CITY>TEL Test
+<STATE>L3
+<ZIP>00000
+<PHONE>000 3 000 000
+</BUSINESS-ADDRESS>
+<MAIL-ADDRESS>
+<STREET1>5Test ROAD
+<STREET2>Test TOWER
+<CITY>TEL Test
+<STATE>Test
+<ZIP>0000
+</MAIL-ADDRESS>
+</FILER>
+<DOCUMENT>
+<TYPE>EFFECT
+<SEQUENCE>1
+<FILENAME>primary_doc.xml
+<TEXT>
+<XML>
+<?xml version="1.0"?>
+<edgarSubmission>
+
+    <schemaVersion>X0101</schemaVersion>
+
+    <submissionType>EFFECT</submissionType>
+
+    <act>33</act>
+
+    <testOrLive>LIVE</testOrLive>
+
+    <effectiveData>
+        <finalEffectivenessDispDate>2019-12-04</finalEffectivenessDispDate>
+        <finalEffectivenessDispTime>15:00:00</finalEffectivenessDispTime>
+        <form>F-1</form>
+        <filer>
+            <cik>0001757399</cik>
+            <entityName>Test Technologies Ltd.</entityName>
+            <fileNumber>000-0000</fileNumber>
+        </filer>
+    </effectiveData>
+</edgarSubmission>
+</XML>
+</TEXT>
+</DOCUMENT>
+</SUBMISSION>
